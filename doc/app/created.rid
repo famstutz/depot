@@ -1,0 +1,7 @@
+Tue, 15 Mar 2011 13:24:28 +0100
+doc/README_FOR_APP	Tue, 08 Mar 2011 13:27:44 +0100
+app/controllers/application_controller.rb	Tue, 08 Mar 2011 13:27:42 +0100
+app/controllers/products_controller.rb	Tue, 08 Mar 2011 13:28:51 +0100
+app/helpers/application_helper.rb	Tue, 08 Mar 2011 13:27:42 +0100
+app/helpers/products_helper.rb	Tue, 08 Mar 2011 13:28:52 +0100
+app/models/product.rb	Tue, 08 Mar 2011 13:28:51 +0100
