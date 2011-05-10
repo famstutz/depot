@@ -85,4 +85,5 @@ class CartsController < ApplicationController
         :notice => 'Your cart is currently empty') }
       format.xml { head :ok }
     end
+  end
 end
